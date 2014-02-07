@@ -1,0 +1,32 @@
+{
+  "mainFile": "ninja-ide.py", 
+  "use-tabs": false, 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "MOTIVATION-IDE", 
+  "license": "GNU General Public License v3", 
+  "url": "http://ide.motivation.ga/", 
+  "pythonPath": "python", 
+  "preExecScript": "", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 4, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".ini", 
+    ".js", 
+    ".qss", 
+    ".qml",
+    ".mtvtn"
+  ], 
+  "project-type": "python", 
+  "postExecScript": "", 
+  "description": "IDE used by Motivation Software"
+}
