@@ -1,9 +1,5 @@
-# **Ninja-ide** | Ninja-ide Is Not Just Another IDE.
+# **Motivation-IDE** | Based on [Ninja-IDE](http://www.ninja-ide.org/).
 
-Ninja-IDE is a cross-platform integrated development environment (IDE) that runs
-on Linux/X11, Mac OS X and Windows desktop operating systems. Ninja-IDE allows
-developers to create applications for any purpose making the task of writing
-software easier and more enjoyable.
 
 ## Contact
 
