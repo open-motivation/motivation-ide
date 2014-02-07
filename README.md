@@ -1,4 +1,5 @@
-# **Motivation-IDE** | Based on [Ninja-IDE](http://www.ninja-ide.org/).
+# **Motivation-IDE**
+Based on [Ninja-IDE](http://www.ninja-ide.org/)
 
 
 ## Contact
@@ -12,7 +13,7 @@ Both of these:
 
 -   [Python](http://python.org/) >= 2.7 (or Python3)
 -   [PyQt](http://www.riverbankcomputing.com/software/pyqt/intro) >= 4.8
--   SetupTools ´´´sudo apt-get install python-setuptools´´´ in Ubuntu
+-   SetupTools ''' sudo apt-get install python-setuptools ''' in Ubuntu
 
 And one of these:
 
